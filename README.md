@@ -1,5 +1,5 @@
 # Mott-Macdonald-Industry-Project
-# Building R13 — Intelligent Boat Hull Wash Facility
+# UNSW Building R13: Intelligent Boat Hull Wash Facility
 
 > A closed-loop boat hull washing system with computer vision-driven targeting, real-time water quality monitoring, and ML-assisted pump health prediction — designed for Mott MacDonald as a Group 5 capstone project.
 
